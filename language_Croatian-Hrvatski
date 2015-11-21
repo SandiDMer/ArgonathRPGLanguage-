@@ -1,0 +1,62 @@
++LOGIN_WELCM1 - Uspijesno ste se ulogirali, {Player Name}
++LOGIN_WELCM2 - Dobrodosli u Argonath RPG RS5!
++LOGIN_MFERR1 - Multi-faktor vertifikacija je offline. Pokusajte ponovno kasnije
++LOGIN_MFERR2 - Greska: pogresan kod!
++LOGIN_MF1    - Vas account ima multi-faktor osposobljen. \n\n Molimo vas upisite vas kod, prikazan u Google Autehenticator aplikaciji
++LOGIN_PASSER1- Greska: vas kod se ne podudara!
++LOGIN_PASSER2- Greska: pogrijesili ste lozinku
++LOGIN_PASS2  - Molimo vas ponovite lozinku koji ste izabrali
++LOGIN_QUIT   - Da li ste sigurno da zelite napustiti server?
++LOGIN_ADULT  - Upozorenje: Server sadrzava elemente koji mogu biti smatrani za odrasle
++LOGIN_BYE1   - Izabrali ste da napustite server
++ERROR_NOTLOG - Greska: Niste se ulogirali
++ERROR_KICK   - Greska: Trenutno ne mozete koristiti tu komndu
++ECON_RELOAD  - [Upozorenje] Vase ekonomicno stanje se ucitava, vas ekonomski racun trenutno nije dostupan
++TXT_Login0   - Dobrodosli u Argonath RPG
++TXT_Login1   - Jedinstven svijet
++CMD_TIME     - Trenutno vrijeme u realnom svijetu je {time} (CET - Srednje-Europsko vrijeme)
++CMD_TD       - Vrijeme na serveru je {time} (CET- Srednje-Europsko vrijeme), datum je {date}
++CMD_DATE     - Datum je {date}
++MONTH_1      - Sijecanj
++MONTH_2      - Veljaca
++MONTH_3      - Ozujak
++MONTH_4      - Travanj
++MONTH_5      - Svibanj
++MONTH_6      - Lipanj
++MONTH_7      - Srpanj
++MONTH_8      - Kolovoz
++MONTH_9      - Rujan
++MONTH_10     - Listopad
++MONTH_11     - Studeni
++MONTH_12     - Prosinac
++
++// Other
++RES_COMBAT   - Ne mozete to napraviti tijekom pucnjave.
++RES_NODONE	 -Greska: Ovo svojstvo je trenutno onemoguceno zbog poteskoca.
++
++// Economy
++ECON_ATM_TY  - Hvala sto koristite Automatski bankomat sponzoriran od strane Argonath RPG Banke
++ECON_ATM_NC  - Greska: trenutno niste na bankomatu
++ECON_ATM_CIV - Nemate bankonvni racun da to koristite. Morate prvo postati legalan stanovnik.
++ECON_ATM_LIM - Greska: Ne mozete podizati iznose vece od $100,00 na bankomatu. Molimo vas da podsijetite lokalnu banku.
++ECON_ATM_POS - Greska: Mozete podici samo pozitivan iznos.
++ECON_ATM_1m  - Greska: Morate cekatu minutu nakon sto ste prethodno podigli iznos sa bankomata.
++ECON_BNK_N10 - Greska: Ne moze vise od 10 simbola.
++ECON_BNK_DBT - Banka: Zao nam je, u dugovima ste. Vas racun je zamrznut.
++ECON_BNK_ACC - Taj racun ne postoji ili vi nemate pristup njemu.
++ECON_BNK_FKT - Dogodila se pogreska sa izvorom racuna.
++ECON_BNK_LRG - Greska: Iznos je prevelik.
++ECON_BNK_MIN - Greska: minimum iznos mora biti $1.
++ECON_BNK_FUN - Greska: Nemate dovoljno novca da podignete toliki iznos.
++ECON_BNK_WNSF- Imate nedovoljan iznos da bi obavili tu radnju.
++ECON_BNK_TY  - Hvala sto ste posijetili Argonathovu banku.
++ECON_BNK_REJ - Transakcija odbijena, iznos nece biti prebacen.
++ECON_BNK_PART- Vas partner mora biti u banci.
++ECON_BNK_PSLF- Ne mozete sami otvoriti "partnerski" racun.
++ECON_BNK_PNO - Izabrali ste da ne otvarate novi racun.
++ECON_BNK_PPNO- Vas partner je odbio vas zahtjev da otvorite racun.
++ECON_BNK_LOAD- Greska: Vasi racuni nisu ucitani, molimo pricekajte.
++ECON_BNK_BNK - Greska: Morate biti u banci.
++ECON_BNK_CIV - Greska: Ne dozvoljavamo imigrantima da koriste banku. Potrebna je putovnica za koristenje banke.
++ECON_BNK_CRI - Greska: Banka je zatvorena zbog financijske krize.
++ECON_BNK_GRP - Greska: Molimo vas da koristite /groupbank da biste uplatili/podigli novac iz grupnog bankonvog racuna.
